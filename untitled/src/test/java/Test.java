@@ -18,4 +18,7 @@ public class Test {
     private void testasd2() {
         System.out.println("Test Methodaaaaad");
     }
+     private void testaaaaaaasd2() {
+        System.out.println("Test HUNGARY EUROPEAN CHAMPIONSHIP");
+    }
 }
